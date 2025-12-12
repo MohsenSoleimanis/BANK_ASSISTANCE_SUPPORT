@@ -1,0 +1,63 @@
+﻿# Bank Policies and Procedures
+
+## Savings Accounts
+
+Our savings accounts offer competitive interest rates with flexible terms. Current rates range from 3.5% to 4.5% APY depending on balance tiers.
+
+### Account Features
+- No monthly maintenance fees for balances over $500
+- Free online and mobile banking
+- FDIC insured up to $250,000
+- Unlimited deposits and withdrawals
+
+### Opening Requirements
+- Minimum opening deposit: $100
+- Valid government-issued ID
+- Social Security Number or Tax ID
+- Proof of address
+
+## Loan Products
+
+We offer various loan products including personal loans, auto loans, and mortgages.
+
+### Personal Loans
+- Amounts from $1,000 to $50,000
+- Terms from 12 to 60 months
+- Rates starting at 6.99% APR
+- Quick approval process
+
+### Eligibility Requirements
+- Minimum credit score of 650
+- Stable income verification
+- Debt-to-income ratio below 40%
+- US resident or permanent resident
+
+## Customer Service
+
+Our customer service team is available:
+- Monday-Friday: 8 AM - 8 PM EST
+- Saturday: 9 AM - 5 PM EST
+- Sunday: Closed
+- 24/7 automated phone system
+
+### Contact Methods
+- Phone: 1-800-BANK-HELP
+- Email: support@bank.com
+- Online chat: Available during business hours
+- Mobile app: In-app messaging
+
+## Security and Privacy
+
+We take your security seriously and employ industry-leading measures to protect your information.
+
+### Security Features
+- 256-bit encryption for all transactions
+- Multi-factor authentication
+- Fraud monitoring 24/7
+- Zero liability for unauthorized transactions
+
+### Privacy Policy
+- We never sell your personal information
+- Data is encrypted both in transit and at rest
+- You can request your data at any time
+- Annual privacy notices sent to all customers

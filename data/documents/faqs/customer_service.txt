@@ -1,0 +1,155 @@
+﻿# Customer Service Guide
+
+## Contact Information
+
+### Phone Support
+**Main Customer Service:** 1-800-555-BANK (2265)
+- Monday - Friday: 7:00 AM - 10:00 PM EST
+- Saturday: 8:00 AM - 8:00 PM EST
+- Sunday: 9:00 AM - 6:00 PM EST
+
+**24/7 Automated System:**
+- Check balances
+- Recent transactions
+- Transfer funds
+- Report lost/stolen cards
+- Make loan payments
+
+**Specialized Numbers:**
+- Credit Cards: 1-800-555-CARD (2273)
+- Mortgages: 1-800-555-HOME (4663)
+- Auto Loans: 1-800-555-AUTO (2886)
+- Business Banking: 1-800-555-BIZ1 (2491)
+
+### Digital Support
+**Online Chat:**
+- Available during business hours
+- Average wait time: 2 minutes
+- Available at: www.bank.com/chat
+
+**Email Support:**
+- support@communitybank.com
+- Response within 24 hours
+- Include account number for faster service
+
+**Mobile App:**
+- In-app messaging
+- Secure messaging for sensitive issues
+- Available 24/7
+
+**Social Media:**
+- Twitter: @CommunityBank
+- Facebook: facebook.com/CommunityBank
+- Response time: Within 2 hours during business hours
+
+## Branch Locations
+
+### Main Branch
+123 Main Street, Downtown
+Hours: Mon-Fri 9 AM - 5 PM, Sat 9 AM - 1 PM
+
+### North Branch  
+456 North Avenue, Northside
+Hours: Mon-Fri 9 AM - 6 PM, Sat 9 AM - 2 PM
+
+### South Branch
+789 South Boulevard, Southside
+Hours: Mon-Fri 9 AM - 5 PM, Sat 9 AM - 1 PM
+
+**ATM Network:**
+- 50,000+ fee-free ATMs nationwide
+- Find ATMs using our mobile app
+- Deposit cash and checks at most locations
+
+## Common Questions and Solutions
+
+### Account Access Issues
+
+**Forgot Password:**
+1. Go to login page
+2. Click "Forgot Password"
+3. Enter username and email
+4. Follow reset instructions sent to email
+5. Create new strong password
+
+**Locked Account:**
+After 3 failed login attempts, your account is temporarily locked for security.
+- Wait 30 minutes and try again, or
+- Call customer service for immediate unlock
+
+### Card Issues
+
+**Lost or Stolen Card:**
+1. Call 1-800-555-BANK immediately
+2. Report card as lost/stolen
+3. Review recent transactions for fraud
+4. Order replacement card (arrives in 5-7 business days)
+5. Request expedited shipping if needed ($25 fee)
+
+**Card Declined:**
+Common reasons:
+- Insufficient funds
+- Daily limit reached
+- Card expired
+- Security hold (traveling?)
+- Incorrect PIN attempts
+
+**Solution:** Call customer service or check mobile app for specific reason
+
+### Fraud Protection
+
+**Fraud Alerts:**
+We monitor your account 24/7 for suspicious activity.
+
+**If We Detect Fraud:**
+- You'll receive text, email, or phone call
+- Verify whether transactions are yours
+- Card may be temporarily blocked
+- Fraudulent charges will be removed
+- New card issued if needed
+
+**Zero Liability:**
+You're not responsible for unauthorized transactions reported promptly.
+
+**Report Fraud Immediately:**
+- Call 1-800-555-BANK
+- Or use mobile app's "Report Fraud" feature
+
+### Disputes and Complaints
+
+**Dispute a Transaction:**
+1. Gather transaction details
+2. Contact merchant first (may resolve faster)
+3. If unresolved, file dispute with us:
+   - Online: www.bank.com/disputes
+   - Phone: 1-800-555-BANK
+   - Mail: Disputes Department, PO Box 12345
+4. Investigation takes 30-45 days
+5. Provisional credit may be issued within 10 days
+
+**File a Complaint:**
+We take complaints seriously. Contact:
+- Branch manager
+- Customer service supervisor
+- Email: complaints@communitybank.com
+- Mail: Customer Relations, PO Box 12345
+
+**Escalation:**
+If not satisfied with resolution:
+- Ask for case to be escalated
+- Request corporate customer relations
+- File complaint with regulatory agencies
+
+## Service Standards
+
+**Our Commitment to You:**
+- Answer calls within 2 minutes
+- Respond to emails within 24 hours
+- Resolve issues within 3 business days
+- Professional and courteous service
+- Multilingual support available
+
+**We Value Your Feedback:**
+- Take our surveys after service interactions
+- Help us improve our service
+- Every response is reviewed by management

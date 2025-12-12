@@ -1,0 +1,238 @@
+﻿# Security and Privacy Policy
+
+## Your Security is Our Priority
+
+At Community Bank, we implement multiple layers of security to protect your accounts and personal information.
+
+## Online Banking Security
+
+### Encryption
+- All data transmitted is encrypted using 256-bit SSL/TLS encryption
+- Same level of encryption used by government and military
+- Your information is scrambled and unreadable during transmission
+
+### Multi-Factor Authentication (MFA)
+We strongly recommend enabling MFA for enhanced security:
+
+**Setup Options:**
+- SMS text message codes
+- Authenticator app (Google Authenticator, Authy)
+- Biometric authentication (fingerprint, face recognition)
+- Security key (USB key or NFC)
+
+**How It Works:**
+1. Enter username and password
+2. Receive verification code via chosen method
+3. Enter code to complete login
+4. Option to trust device for 30 days
+
+### Password Requirements
+Strong passwords are your first defense:
+
+**Requirements:**
+- Minimum 12 characters
+- At least one uppercase letter
+- At least one lowercase letter
+- At least one number
+- At least one special character (!@#$%^&*)
+- Cannot contain username or personal info
+- Cannot be same as last 5 passwords
+
+**Best Practices:**
+- Use unique password for banking
+- Change password every 90 days
+- Never share password with anyone
+- Use password manager
+- Don't write passwords down
+
+### Session Security
+- Automatic logout after 10 minutes of inactivity
+- Immediate logout when closing browser
+- One active session per account
+- Session encryption throughout
+
+## Mobile App Security
+
+### App Security Features
+- Device authentication required
+- Biometric login option
+- Automatic screen timeout
+- Screenshot protection
+- Jailbreak/root detection
+- App-level encryption
+
+### Additional Mobile Protection
+- Remote wipe capability if device lost
+- Instant card lock/unlock feature
+- Real-time transaction alerts
+- Location-based security alerts
+
+## Fraud Prevention
+
+### Our Monitoring System
+We monitor your account 24/7 using advanced AI:
+
+**Monitored Activities:**
+- Unusual transaction amounts
+- Transactions from new locations
+- Rapid succession of transactions
+- Changes to account information
+- Login attempts from new devices
+
+### Fraud Alerts
+You'll be contacted immediately if we detect suspicious activity:
+- Text message to registered phone
+- Email to registered address
+- Phone call for high-risk situations
+- Mobile app notification
+
+**Your Response Options:**
+1. Confirm transactions are yours
+2. Report fraud immediately
+3. Lock card temporarily
+4. Speak with fraud specialist
+
+### Common Fraud Schemes
+
+**Phishing Emails:**
+- Fake emails pretending to be from us
+- Ask you to "verify" account info
+- Contain links to fake websites
+- **We will NEVER ask for passwords via email**
+
+**Phone Scams:**
+- Callers claiming to be bank employees
+- Request account numbers or passwords
+- Create urgency to act immediately
+- **We will NEVER ask for full password by phone**
+
+**Smishing (SMS Phishing):**
+- Fake text messages
+- Claim account problem or suspicious activity
+- Include links to fake websites
+- **We will NEVER text links to login pages**
+
+### Protecting Yourself
+
+**Red Flags:**
+- Unsolicited contact asking for account info
+- Pressure to act immediately
+- Requests for passwords or PINs
+- Poor grammar or spelling
+- Suspicious sender addresses
+
+**If You're Contacted:**
+1. Don't click links in emails/texts
+2. Don't provide account information
+3. Don't download attachments
+4. Hang up and call our official number
+5. Report suspicious contact to us
+
+## Privacy Policy
+
+### Information We Collect
+- Personal identification information
+- Contact information
+- Financial information
+- Transaction history
+- Device and browser information
+- Location data (with permission)
+
+### How We Use Your Information
+- Process transactions
+- Provide customer service
+- Prevent fraud
+- Improve our services
+- Send important account notifications
+- Marketing (you can opt-out)
+
+### Sharing Your Information
+We DO NOT sell your personal information.
+
+**We may share with:**
+- Service providers (payment processors, etc.)
+- Credit bureaus (for credit decisions)
+- Government agencies (when legally required)
+- Affiliated companies (you can opt-out)
+
+**We will NEVER share with:**
+- Third-party marketers
+- Data brokers
+- Social media platforms
+- Anyone you don't authorize
+
+### Your Privacy Rights
+
+**You Have the Right To:**
+- Access your personal information
+- Request corrections to your data
+- Opt-out of marketing communications
+- Opt-out of information sharing with affiliates
+- Close your account and request data deletion
+- Receive annual privacy notices
+
+### Data Security Measures
+
+**How We Protect Your Data:**
+- Encryption of all data in transit and at rest
+- Secure data centers with 24/7 monitoring
+- Regular security audits and testing
+- Employee background checks
+- Strict access controls
+- Employee training on data protection
+
+### Breach Notification
+If a data breach occurs:
+- You'll be notified within 72 hours
+- We'll explain what happened
+- Steps you should take
+- How we're addressing the issue
+- Free credit monitoring if applicable
+
+## Regulatory Compliance
+
+We comply with all applicable regulations:
+- Bank Secrecy Act (BSA)
+- USA PATRIOT Act
+- Gramm-Leach-Bliley Act (GLBA)
+- Fair Credit Reporting Act (FCRA)
+- Equal Credit Opportunity Act (ECOA)
+- Truth in Lending Act (TILA)
+
+## FDIC Insurance
+
+Your deposits are insured by the Federal Deposit Insurance Corporation:
+- Coverage up to $250,000 per depositor
+- Per insured bank
+- For each account ownership category
+- Insurance is automatic
+- Backed by full faith and credit of US government
+
+### What's Covered:
+- Checking accounts
+- Savings accounts
+- Money market accounts
+- Certificates of deposit (CDs)
+
+### What's NOT Covered:
+- Stocks
+- Bonds
+- Mutual funds
+- Crypto assets
+- Safe deposit box contents
+
+## Contact Us About Security
+
+**Security Concerns:**
+- Email: security@communitybank.com
+- Phone: 1-800-555-BANK
+- Available 24/7
+
+**Report Fraud:**
+- Call immediately: 1-800-555-BANK
+- Or use mobile app's fraud reporting feature
+
+**Privacy Questions:**
+- Email: privacy@communitybank.com
+- Phone: 1-800-555-BANK
+- Mail: Privacy Officer, PO Box 12345

@@ -1,0 +1,125 @@
+﻿# Checking Account Policies
+
+## Account Types
+
+### Free Checking
+No monthly fees, perfect for everyday banking.
+
+**Features:**
+- No minimum balance requirement
+- No monthly maintenance fee
+- Free online and mobile banking
+- Free debit card
+- Free mobile check deposit
+- Free bill pay
+- Access to 50,000+ fee-free ATMs nationwide
+- FDIC insured up to $250,000
+
+**Fees:**
+- Overdraft fee: $35 per item (up to 3 per day)
+- Non-sufficient funds: $35 per item
+- Stop payment: $30
+- Foreign ATM fee: $3 per transaction
+
+### Interest Checking
+Earn interest on your checking balance.
+
+**Features:**
+- Minimum balance: $1,500
+- Interest rate: 1.50% APY
+- All features of Free Checking
+- Free paper checks
+- No foreign transaction fees
+- Cashback rewards on debit purchases
+
+**Fees:**
+- Monthly maintenance fee: $12 (waived with $1,500 minimum balance or $500 monthly direct deposit)
+
+### Premium Checking
+Our highest tier checking with exclusive benefits.
+
+**Features:**
+- Minimum balance: $10,000
+- Interest rate: 2.50% APY
+- All ATM fees rebated worldwide
+- Free wire transfers (domestic and international)
+- Premium credit card with no annual fee
+- Identity theft protection
+- Travel insurance
+- Concierge service
+
+**Fees:**
+- Monthly maintenance fee: $25 (waived with $10,000 minimum balance)
+
+## Overdraft Protection
+
+We offer several overdraft protection options:
+
+### Option 1: Link to Savings
+Automatically transfer funds from your linked savings account.
+- Transfer fee: $10 per transfer
+- Transfers in $50 increments
+
+### Option 2: Line of Credit
+Apply for an overdraft line of credit.
+- Credit line up to $5,000
+- Interest rate: Prime + 2%
+- No transfer fees
+
+### Option 3: Standard Overdraft Coverage
+We may pay overdrafts at our discretion.
+- Overdraft fee: $35 per item (maximum 3 per day)
+
+## Debit Card
+
+Your free debit card includes:
+- Chip technology for security
+- Contactless payment capability
+- Apple Pay, Google Pay, Samsung Pay compatible
+- Zero liability for unauthorized transactions
+- Instant card lock/unlock via mobile app
+- Cash back rewards on select purchases
+
+**Daily Limits:**
+- ATM withdrawal: $500
+- Point of sale purchases: $3,000
+- Total daily limit: $3,000
+
+## Direct Deposit
+
+Set up direct deposit for your paycheck or benefits:
+- Faster access to funds
+- More secure than paper checks
+- Environmental benefits
+- May qualify for fee waivers
+
+**Setup Information:**
+- Routing Number: 123456789
+- Account Number: Your account number
+- Bank Name: Community Bank
+- Bank Address: 123 Main Street, Anytown, USA
+
+## Bill Pay
+
+Free online bill pay service:
+- Pay anyone in the US
+- Schedule one-time or recurring payments
+- Receive and pay e-bills
+- Payment history and tracking
+- Payments delivered electronically or by check
+
+## Mobile Banking
+
+Access your account 24/7:
+- Check balances
+- View transactions
+- Transfer funds
+- Mobile check deposit
+- Pay bills
+- Find ATMs
+- Lock/unlock debit card
+- Set up account alerts
+
+Download our app:
+- iOS: Available on App Store
+- Android: Available on Google Play

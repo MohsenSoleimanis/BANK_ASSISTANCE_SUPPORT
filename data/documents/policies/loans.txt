@@ -1,0 +1,171 @@
+﻿# Loan Products and Policies
+
+## Personal Loans
+
+### Unsecured Personal Loans
+Borrow for any purpose without collateral.
+
+**Loan Details:**
+- Loan amounts: $1,000 - $50,000
+- Terms: 12, 24, 36, 48, or 60 months
+- Interest rates: 6.99% - 24.99% APR (based on creditworthiness)
+- Fixed monthly payments
+- No prepayment penalties
+- Funds available within 1 business day
+
+**Eligibility Requirements:**
+- Minimum age: 18 years old
+- Minimum credit score: 620
+- Minimum annual income: $25,000
+- US citizen or permanent resident
+- Valid bank account
+- Debt-to-income ratio below 45%
+
+**Required Documents:**
+- Government-issued ID
+- Proof of income (pay stubs, tax returns, or bank statements)
+- Proof of address
+- Employment verification
+
+### Secured Personal Loans
+Lower rates with collateral.
+
+**Loan Details:**
+- Loan amounts: $5,000 - $100,000
+- Terms: 12 - 84 months
+- Interest rates: 4.99% - 12.99% APR
+- Collateral: Vehicle, savings account, or other approved assets
+- Loan-to-value ratio up to 90%
+
+## Auto Loans
+
+### New Car Loans
+Finance your new vehicle purchase.
+
+**Loan Details:**
+- Loan amounts: Up to $100,000
+- Terms: 24, 36, 48, 60, or 72 months
+- Interest rates: Starting at 3.99% APR
+- Finance up to 120% of vehicle value (including taxes, fees, and warranties)
+- Gap insurance available
+
+**Rate Factors:**
+- Credit score
+- Down payment amount
+- Loan term
+- Vehicle age and type
+
+### Used Car Loans
+Great rates on pre-owned vehicles.
+
+**Loan Details:**
+- Vehicles up to 7 years old
+- Terms: 24 - 60 months
+- Interest rates: Starting at 4.99% APR
+- Maximum loan-to-value: 110%
+
+## Mortgage Products
+
+### Fixed-Rate Mortgages
+Consistent payments throughout your loan term.
+
+**Available Terms:**
+- 15-year fixed: Starting at 5.75% APR
+- 20-year fixed: Starting at 6.00% APR
+- 30-year fixed: Starting at 6.25% APR
+
+**Features:**
+- Down payment as low as 3%
+- PMI removal at 20% equity
+- Rate lock for 60 days
+- No prepayment penalties
+
+### Adjustable-Rate Mortgages (ARM)
+Lower initial rates with adjustment periods.
+
+**Available Options:**
+- 5/1 ARM: Starting at 5.25% APR
+- 7/1 ARM: Starting at 5.50% APR
+- 10/1 ARM: Starting at 5.75% APR
+
+**Features:**
+- Lower initial payment
+- Rate caps for protection
+- Conversion option to fixed rate
+
+### Home Equity Line of Credit (HELOC)
+Borrow against your home equity.
+
+**Line Details:**
+- Credit lines: $10,000 - $500,000
+- Interest rate: Prime + 0.5% (currently 8.50% APR)
+- Draw period: 10 years
+- Repayment period: 20 years
+- Interest-only payments during draw period
+- Maximum combined loan-to-value: 90%
+
+## Credit Cards
+
+### Cashback Rewards Card
+Earn cash back on every purchase.
+
+**Card Features:**
+- No annual fee
+- 2% cash back on all purchases
+- 5% cash back on gas and groceries (up to $1,500 quarterly)
+- 0% intro APR for 15 months on purchases and balance transfers
+- Regular APR: 15.99% - 25.99% variable
+
+**Earning Rewards:**
+- Earn unlimited cash back
+- No category activation required
+- Redeem for statement credit, direct deposit, or gift cards
+- Rewards never expire
+
+### Travel Rewards Card
+Earn points for travel purchases.
+
+**Card Features:**
+- Annual fee: $95 (waived first year)
+- 3 points per $1 on travel and dining
+- 2 points per $1 on all other purchases
+- 50,000 bonus points after spending $3,000 in first 3 months
+- No foreign transaction fees
+- Travel insurance included
+- Priority boarding and lounge access
+
+## Application Process
+
+### Online Application
+1. Complete application form (10 minutes)
+2. Upload required documents
+3. Receive instant pre-qualification
+4. Full application review (1-2 business days)
+5. Final approval and funding
+
+### Credit Decision Factors
+- Credit score and history
+- Income and employment stability
+- Debt-to-income ratio
+- Existing relationship with our bank
+- Loan purpose and amount
+- Collateral value (if applicable)
+
+## Loan Servicing
+
+### Making Payments
+- Automatic payment from checking/savings
+- Online banking
+- Mobile app
+- Phone payment
+- Mail payment
+- In-branch payment
+
+### Payment Due Dates
+Payments are due on the same day each month. You can choose your payment date when you set up the loan.
+
+**Grace Period:** 15 days
+**Late Payment Fee:** 5% of payment amount or $25 (whichever is greater)
+
+### Early Payoff
+All our loans have no prepayment penalties. You can pay off your loan early at any time and save on interest charges.

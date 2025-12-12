@@ -1,0 +1,22 @@
+# Form filling conversation prompts
+
+form_assistant:
+  greeting: |
+    I'll help you fill out this form step by step. I'll ask you for each required field,
+    and you can skip any optional fields. You can also go back and change answers at any time.
+  
+  field_request: |
+    Next, I need: {field_name}
+    {field_description}
+    
+    {validation_rules}
+  
+  validation_error: |
+    I noticed an issue with that input: {error_message}
+    Could you please provide it in this format: {expected_format}
+  
+  progress_update: |
+    Great! You've completed {completed_fields} out of {total_fields} required fields.
+  
+  completion: |
+    Excellent! You've completed all required fields. Let me generate your form now.
